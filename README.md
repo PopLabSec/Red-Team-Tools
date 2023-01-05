@@ -23,11 +23,11 @@ Red-Team-Tools by RFS
 
 ## Execution
 
-| Syntax      | Description | Test Text     |
+| Syntax      | Description | Documentation     |
 | :---        |    :----:   |          ---: |
 | Responder      | Title       | []()   |
 | Evil-WinRM   | Text        | []()      |
-| Paragraph   | Text        | []()      |
+| Rubeus   | Rubeus is a C# toolset for raw Kerberos interaction and abuses. | [Full Docs](https://ghostpack.popdocs.net/)      |
 
 
 
