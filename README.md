@@ -12,6 +12,17 @@
 - [Networks Penetration Testing]()
 - [Web Applications Penetration Testing]()
 - [Wireless Security](https://www.offensive-wireless.com/)
+- [Ethical Hacking]()
+
+
+## Certifications Study
+
+- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
+- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide)
+- [eCPPTv2 AIO]()
+- [CRTO Exam Guide]()
+- []()
+
 
 
 ## Reconnaissance
