@@ -112,15 +112,10 @@ Red-Team-Tools by RFS
 ## Command and Controls
 
 
-| Syntax      | Description | Test Text     |
+| Tool      | Description | Docs    |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+| Covenant      | Title       | []()   |
+| Merlin   | Text        | []()      |
+| Havoc      | Title       | []()   |
+| Cobalt Strike   | Text        | []()      |
+| Metasploit      | Title       | []()   |
