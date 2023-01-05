@@ -16,31 +16,20 @@ Red-Team-Tools by RFS
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Responder      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+| EvilGoPhish      | Title       | []()   |
+| SquarePhish   | Text        | []()      |
+| Bash Bunny      | Title       | []()   |
+| EAP Hammer   | Text        | []()      |
 
 ## Execution
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
+| Responder      | Title       | []()   |
+| Evil-WinRM   | Text        | []()      |
 | Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+
+
 
 ## Persistence
 
