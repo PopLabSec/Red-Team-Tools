@@ -70,9 +70,9 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
+| Certipy      | Title       | []()   |
 | Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
+| Certipy      | Title       | []()   |
 | Paragraph   | Text        | []()      |
 
 
