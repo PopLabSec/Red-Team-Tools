@@ -62,12 +62,7 @@
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
 | Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+
 
 
 
@@ -75,12 +70,6 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
@@ -95,12 +84,7 @@
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
 | Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+
 
 ## Credential Access
 
@@ -109,13 +93,6 @@
 | Header      | Title       | []()   |
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
 
 ## Lateral Movement
 
@@ -124,13 +101,7 @@
 | Header      | Title       | []()   |
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+
 
 ## Command and Controls
 
