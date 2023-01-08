@@ -98,7 +98,7 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
+| SharpWSUS      | Title       | []()   |
 | Paragraph   | Text        | []()      |
 | Header      | Title       | []()   |
 
