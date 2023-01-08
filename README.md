@@ -7,20 +7,20 @@
 
 ## More Documentation
 
-- [Active Directory Attacks]()
+- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
 - [Infrastructure Penetration Testing]()
-- [Networks Penetration Testing]()
-- [Web Applications Penetration Testing]()
+- [Networks Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
+- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
 - [Wireless Security](https://www.offensive-wireless.com/)
-- [Ethical Hacking]()
+- [Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
 
 
 ## Certifications Study
 
 - [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
 - [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide)
-- [eCPPTv2 AIO]()
-- [CRTO Exam Guide]()
+- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
+- [CRTO Exam Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
 - []()
 
 
