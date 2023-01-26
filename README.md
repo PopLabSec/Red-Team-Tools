@@ -71,9 +71,11 @@
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Certipy      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Certipy      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+| SharpUp   | Text        | []()      |
+| MultiPotato      | Title       | []()   |
+| PEASS   | Text        | []()      |
+| Watson   | Text        | []()      |
+| BatPotato   | Text        | []()      |
 
 
 ## Defense Evasion
@@ -86,21 +88,25 @@
 | Paragraph   | Text        | []()      |
 
 
-## Credential Access
+## Credential Access / Dumping
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
+| MimiKatz      | Title       | []()   |
+| HekaTomb   | Text        | []()      |
+| SharpLAPS      | Title       | []()   |
+| Net-GPPPassword      | Title       | []()   |
+| PyPyKatz      | Title       | []()   |
+
 
 ## Lateral Movement
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | SharpWSUS      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
+| SCShell   | Text        | []()      |
+| MoveKit      | Title       | []()   |
+| ImPacket      | Title       | []()   |
 
 
 ## Command and Controls
@@ -113,3 +119,7 @@
 | Havoc      | Title       | []()   |
 | Cobalt Strike   | Text        | []()      |
 | Metasploit      | Title       | []()   |
+| PoshC2      | Title       | []()   |
+| Sliver      | Title       | []()   |
+| SILENTTRINITY      | Title       | []()   |
+| AzureC2Relay      | Title       | []()   |
