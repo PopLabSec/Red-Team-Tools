@@ -87,11 +87,15 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-
+| Villain      | Title       | []()   |
+| EDRSandBlast   | Text        | []()      |
+| SPAWN      | Title       | []()   |
+| NetLoader   | Text        | []()      |
+| KillDefenderBOF   | Text        | []()      |
+| ThreatCheck   | Text        | []()      |
+| Freeze   | Text        | []()      |
+| GadgetToJScript   | Text        | []()      |
+|Cobalt Strike BOF | Text  | []()      |
 
 ## Credential Access / Dumping
 
