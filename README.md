@@ -42,7 +42,13 @@
 | EvilGoPhish      | Title       | []()   |
 | SquarePhish   | Text        | []()      |
 | Bash Bunny      | Title       | []()   |
-| EAP Hammer   | Text        | []()      |
+| SprayingToolKit  | Text        | []()      |
+| Psudohash   | Text        | []()      |
+| o365Recon  | Text        | []()      |
+| CredMaster  | Text        | []()      |
+| DomainPasswordSpray   | Text        | []()      |
+| TheSprayer  | Text        | []()      |
+| TREVORspray  | Text        | []()      |
 
 ## Execution
 
@@ -58,10 +64,9 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
-| Header      | Title       | []()   |
-| Paragraph   | Text        | []()      |
+| SharPyShell      | Title       | []()   |
+| SharpEventPersist   | Text        | []()      |
+| SharpStay      | Title       | []()   |
 
 
 
